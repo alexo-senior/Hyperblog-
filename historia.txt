@@ -3,4 +3,5 @@ Esta es la historia de Alexis Antonio Ibarra:
 Muchas metas anhelos y expectativas al iniciar un nuevo
 camino.
 este camino nuevo es el de la programacion con python.
+Hpy esta Alexis estudiando los frameworks de python.
 
